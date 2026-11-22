@@ -17,7 +17,7 @@ With your permission, StepRings **reads** these from Apple Health:
 - your step count (today, and your daily totals for History);
 - your Activity summary: Move, Exercise and Stand, with their goals.
 
-StepRings **never writes** to Apple Health and never changes your Health data. On Apple Watch, with your permission, it also reads the Watch's pedometer (Motion & Fitness) while the Steps Remaining screen is open, so the count updates as you walk.
+StepRings **never writes** to Apple Health and never changes your Health data. On Apple Watch, with your permission, it also reads the Watch's pedometer (Motion & Fitness) while the Step Counter screen is open, so the count updates as you walk.
 
 You choose what StepRings may read, and you can change that at any time: on iPhone, in **Settings → Health → Data Access & Devices → StepRings**; on Apple Watch, in **Settings → Health**.
 

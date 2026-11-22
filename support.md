@@ -140,13 +140,18 @@ Choose a range:
 - **StepRings:** your rings with today's values.
   - Home Screen: small, medium and large
   - Lock Screen: circular, rectangular and inline
-- **Steps Remaining:** counts down to your goal, then shows how far ahead you are.
+- **Step Counter:** counts down the steps left to your goal (then how far ahead you are), or counts up the steps you've taken.
   - Home Screen: small and medium
   - Lock Screen: circular, rectangular and inline
 
 **On Apple Watch** (watch face and Smart Stack):
 - **StepRings:** your rings (rectangular).
-- **Steps Remaining:** the countdown (circular, rectangular and inline).
+- **Step Counter:** counts down or up (circular, rectangular and inline).
+
+### How do I make the Step Counter count up?
+It counts down by default. To change it:
+- **On iPhone:** touch and hold the widget, tap **Edit Widget**, then set **Count** to **Count up**.
+- **On Apple Watch:** when you add the complication, choose **Step Counter: Count up**. To change one already on a face, touch and hold the face, tap **Edit**, and pick it again.
 
 ### How do I add a widget or complication?
 **On iPhone:**
@@ -173,13 +178,15 @@ Choose a range:
 - Opening StepRings on your iPhone sends its total to your Watch.
 - The Watch never shows less than your iPhone's total for today.
 
-## The countdown on Apple Watch
+## The Step Counter on Apple Watch
 
-### How do I open the full-screen countdown?
-1. Add the **Steps Remaining** complication to your watch face.
+### How do I open the full-screen counter?
+1. Add the **Step Counter** complication to your watch face.
 2. Tap it.
 
-The countdown shows the steps left to your goal, or how far ahead you are.
+It counts the same way as the complication:
+- **Countdown:** the steps left to your goal, or how far ahead you are.
+- **Count up:** the steps you've taken today.
 
 ### The count moves as I walk. Where does that come from?
 - While the countdown is open, StepRings counts with your Watch's pedometer, so you don't wait for Apple Health.
