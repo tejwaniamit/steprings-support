@@ -25,7 +25,7 @@ You choose what StepRings may read, and you can change that at any time: on iPho
 
 To show your widgets, complications and History without asking Apple Health every time, StepRings keeps a small copy of recent values on your own iPhone and Apple Watch:
 
-- today's step total and Activity rings;
+- today's step total and Move, Exercise and Stand progress;
 - your daily step totals (up to a year), which your iPhone passes to your Apple Watch for its History screen;
 - your settings, such as your goal, colors and design;
 - a short log of recent updates, used only to diagnose problems on the device.
