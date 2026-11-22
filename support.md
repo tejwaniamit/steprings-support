@@ -74,7 +74,6 @@ Yes. Open **Settings → Display**:
 - **Appearance:** System, Light or Dark.
   - Applies to the iPhone app and widgets.
   - Apple Watch always uses a dark display.
-- **Step count:** Exact (12,345) or Compact (12.3k).
 
 The **Preview** at the top of Settings shows each change as you make it.
 
@@ -90,7 +89,7 @@ Yes. Open **Settings** and go to **Rings · outer to inner**:
 ### Do my settings reach my Apple Watch?
 - **Yes**, automatically. This includes:
   - the goal
-  - the progress design and step count style
+  - the progress design
   - ring order, visibility and colors
 - If the Watch hasn't updated:
   1. Keep it near your iPhone.
