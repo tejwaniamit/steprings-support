@@ -70,7 +70,7 @@ Apple Health doesn't tell apps whether access was denied, so zero can mean eithe
 
 ### Can I change the look?
 Yes. Open **Settings → Display**:
-- **Progress design:** Rings, Lanes, Tracks, Columns, Milestones or Tiles.
+- **Progress design:** Rings, Tracks, Columns, Milestones or Tiles.
 - **Appearance:** System, Light or Dark.
   - Applies to the iPhone app and widgets.
   - Apple Watch always uses a dark display.
