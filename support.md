@@ -50,6 +50,12 @@ Apple Health doesn't tell apps whether access was denied, so zero can mean eithe
 - no steps have been recorded yet, or
 - StepRings has no access.
 
+### What does the Connection row in Settings mean?
+Open **Settings → Apple Health** on your iPhone:
+- **Connected:** StepRings has read your steps from Apple Health, so access works.
+- **Waiting for data:** StepRings asked for access but hasn't read any steps yet. Walk a little, or check access (see above).
+- **Not connected:** StepRings hasn't asked yet. Tap **Connect Apple Health**.
+
 ### The Move, Exercise or Stand ring is missing or empty
 - These rings come from your Apple Watch's Activity data in Apple Health.
 - Check that StepRings may read **Activity** (see above).
@@ -85,6 +91,7 @@ Yes. Open **Settings** and go to **Rings · outer to inner**:
   - Hidden rings are also hidden in the widgets.
 - **Recolor:** use the color menu beside each ring.
   - Pick a color, **Rainbow** or **Custom Color…**.
+  - **Rainbow** works for any ring: the colors run along it from red at the start to violet at your goal.
 
 ### Do my settings reach my Apple Watch?
 - **Yes**, automatically. This includes:
