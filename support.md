@@ -14,7 +14,7 @@ If something isn't working, please include:
 3. [Goal and display](#goal-and-display)
 4. [History](#history)
 5. [Widgets and complications](#widgets-and-complications)
-6. [The countdown on Apple Watch](#the-countdown-on-apple-watch)
+6. [The Step Counter on Apple Watch](#the-step-counter-on-apple-watch)
 7. [Siri](#siri)
 8. [Privacy](#privacy)
 
@@ -75,23 +75,27 @@ Open **Settings → Apple Health** on your iPhone:
 3. Your Apple Watch updates on its own.
 
 ### Can I change the look?
-Yes. Open **Settings → Display**:
-- **Progress design:** Rings, Tracks, Columns, Milestones or Tiles.
-- **Appearance:** System, Light or Dark.
+Yes. In **Settings** on your iPhone:
+- **Progress design:** Rings, Tracks, Columns, Milestones or Tiles. It's the first row of the section below **Daily goal**.
+- **Appearance** (under **Display**): System, Light or Dark.
   - Applies to the iPhone app and widgets.
   - Apple Watch always uses a dark display.
 
 The **Preview** at the top of Settings shows each change as you make it.
 
 ### Can I reorder, hide or recolor the rings?
-Yes. Open **Settings** and go to **Rings · outer to inner**:
-- **Reorder:** tap **Edit**, then drag the rings.
-- **Hide:** turn a ring's switch off.
-  - At least one ring always stays on.
+Yes. In **Settings**, the section under **Progress design** is named after your design and the order it uses, for example **Rings · outer to inner** or **Columns · left to right**:
+- **Reorder:** tap **Edit**, then drag the rows.
+- **Hide:** turn a row's switch off.
+  - At least one always stays on.
   - Hidden rings are also hidden in the widgets.
-- **Recolor:** use the color menu beside each ring.
+- **Recolor:** use the color menu beside each row.
   - Pick a color, **Rainbow** or **Custom Color…**.
-  - **Rainbow** works for any ring: the colors run along it from red at the start to violet at your goal.
+
+### How does Rainbow work?
+- Rainbow is the default for every ring.
+- A rainbow ring is one color that changes as you make progress: red at the start, then orange, yellow, green and blue, and violet at your goal.
+- A ring with no progress yet is grey, so an empty morning doesn't look like a warning.
 
 ### Do my settings reach my Apple Watch?
 - **Yes**, automatically. This includes:
@@ -107,7 +111,7 @@ Yes. Open **Settings** and go to **Rings · outer to inner**:
 2. Tap **Reset StepRings Settings**.
 3. Confirm.
 
-This restores the 10,000-step goal, ring order, visibility, colors and display options. Your Health data is not affected.
+This restores the 10,000-step goal, the Rings design, ring order, visibility, the rainbow colors and display options. Your Health data is not affected.
 
 ## History
 
@@ -189,17 +193,17 @@ It counts the same way as the complication:
 - **Count up:** the steps you've taken today.
 
 ### The count moves as I walk. Where does that come from?
-- While the countdown is open, StepRings counts with your Watch's pedometer, so you don't wait for Apple Health.
+- While the full-screen counter is open, StepRings counts with your Watch's pedometer, so you don't wait for Apple Health.
 - It starts from your Apple Health total and never goes backwards while you watch.
-- The pedometer runs only while the countdown is on screen.
+- The pedometer runs only while the counter is on screen.
 - It needs **Motion & Fitness** access:
-  - StepRings asks the first time you open the countdown.
-  - Without it, the countdown shows Apple Health's count instead.
+  - StepRings asks the first time you open the counter.
+  - Without it, the counter shows Apple Health's count instead.
 
 ### Why does it say "Updating…"?
-- StepRings is reading your latest Apple Health total, so the countdown starts from the right number.
+- StepRings is reading your latest Apple Health total, so the counter starts from the right number.
 - This usually takes a moment.
-- If Health doesn't answer, the countdown shows the pedometer's count instead.
+- If Health doesn't answer, the counter shows the pedometer's count instead.
 
 ### Does my Watch tap when I reach my goal?
 - **Yes.** It plays a short haptic when you reach your goal.
