@@ -2,6 +2,12 @@
 
 Questions, problems or ideas? Email [step.rings.dev@gmail.com](mailto:step.rings.dev@gmail.com). Please include your iPhone and Apple Watch models, and the iOS and watchOS versions, if something isn't working.
 
+## Requirements
+
+- iPhone with iOS 18 or later (iPhone XS, XR, SE 2nd generation or newer)
+- For the Watch app: Apple Watch with watchOS 11 or later (Series 6, SE 2nd generation, Ultra or newer), paired with that iPhone
+- Apple Health access to Steps and Activity
+
 ## Common questions
 
 **StepRings shows zero steps.**
