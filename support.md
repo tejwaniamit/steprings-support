@@ -93,7 +93,7 @@ Yes. In **Settings**, the section under **Progress design** is named after your 
   - Pick a color, **Rainbow** or **Custom Color…**.
 
 ### How does Rainbow work?
-- Rainbow is the default for every ring.
+- The Steps ring is rainbow by default; Move, Exercise and Stand start in orange, blue and purple, and any of them can be set to Rainbow.
 - A rainbow ring is one color that changes as you make progress: red at the start, then orange, yellow, green and blue, and violet at your goal.
 - A ring with no progress yet is grey, so an empty morning doesn't look like a warning.
 
@@ -111,7 +111,7 @@ Yes. In **Settings**, the section under **Progress design** is named after your 
 2. Tap **Reset StepRings Settings**.
 3. Confirm.
 
-This restores the 10,000-step goal, the Rings design, ring order, visibility, the rainbow colors and display options. Your Health data is not affected.
+This restores the 10,000-step goal, the Rings design, ring order, visibility, the default colors and display options. Your Health data is not affected.
 
 ## History
 
@@ -129,6 +129,8 @@ Choose a range:
   - Touch a bar to see its steps.
   - The goal line shows where your goal sits.
   - The summary shows your current streak and your best day.
+  - **Goal reached** compares each day with your *current* goal, and today counts the steps so far.
+  - In **Day**, an active hour is one with at least 250 steps.
 - **On Apple Watch:** every value is printed beside its bar, newest first.
 
 ### The Watch history is shorter than the iPhone's

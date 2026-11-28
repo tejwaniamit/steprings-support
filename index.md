@@ -6,7 +6,7 @@ Your daily steps, with your Move, Exercise and Stand progress, on iPhone and App
 - [Support and common questions](support.md)
 
 <!-- version:start (written by Scripts/publish_support_site.sh) -->
-**Version 1.2.13** (build 47). Requires iOS 18 or later; the Watch app requires watchOS 11 or later.
+**Version 1.2.13** (build 48). Requires iOS 18 or later; the Watch app requires watchOS 11 or later.
 <!-- version:end -->
 
 ## What StepRings does
@@ -25,7 +25,7 @@ Your daily steps, with your Move, Exercise and Stand progress, on iPhone and App
 ## What's new in 1.2.13
 
 - **Step Counter:** the Steps Remaining widget and complication are now the Step Counter. Customize each one to count down (the default) or count up: edit the widget on iPhone, or choose the version when you add the complication on Apple Watch.
-- **Rainbow everywhere:** every ring starts in rainbow, one color that follows your progress from red to violet. Empty rings stay grey.
+- **Rainbow Steps:** the Steps ring is one color that follows your progress from red to violet, and any ring can use it. Empty rainbow rings stay grey.
 - **A new look:** a new app icon, and colors that are StepRings' own.
 - **Simpler Settings:** the design and its colors are together, the section is named after your design, and the Step count and Lanes options are gone.
 - **Clearer Apple Health status:** Settings shows **Connected** once StepRings has read your steps.
